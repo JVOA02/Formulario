@@ -13,5 +13,5 @@
 ➡️ 
 
 #
-<img align="right" alt="CALCULADORA-pic" height="500" style="border-radius:50px;" src="https://github.com/JVOA02/Formulario/blob/main/Formul%C3%A1rio-de-cadastro-1.gif">
+<img align="center" alt="CALCULADORA-pic" height="400" style="border-radius:50px;" src="https://github.com/JVOA02/Formulario/blob/main/Formul%C3%A1rio-de-cadastro-1.gif">
 #
